@@ -1,0 +1,29 @@
+
+~	java:S1166"]Rename this field "ImageUriAcessToken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ·½áøÿÿÿÿ8ƒÓ³Í­/
+w
+java:S3008)"URename this field "PICK_IMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÍå÷üÿÿÿÿ8„Ó³Í­/
+{
+java:S14503"^Remove the "firebaseStorage" field and declare it as a local variable in the relevant methods.(Â‹Ğí8°Ó³Í­/
+~
+java:S1450'"\Remove the "mgetuserimage" field and declare it as a local variable in the relevant methods.(îÕ¸Êşÿÿÿÿ8±Ó³Í­/
+x
+java:S1450."[Remove the "msaveprofile" field and declare it as a local variable in the relevant methods.(ÍÑ¢ı8²Ó³Í­/
+J
+java:S1604N"(Make this anonymous inner class a lambda(àÈÉ¡üÿÿÿÿ8ëÓ³Í­/
+E
+java:S1604W"(Make this anonymous inner class a lambda(Ãß¨³8ëÓ³Í­/
+F
+java:S1604«"(Make this anonymous inner class a lambda(µ°„¢8ìÓ³Í­/
+K
+java:S1604²"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ8íÓ³Í­/
+K
+java:S1604§"(Make this anonymous inner class a lambda(‹äĞçıÿÿÿÿ8íÓ³Í­/
+K
+java:S1604½"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ8îÓ³Í­/
+K
+java:S1604Ô"(Make this anonymous inner class a lambda(Ğ‡İ´ÿÿÿÿÿ8îÓ³Í­/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ™8ñÓ³Í­/
+b
+java:S2259 "DA "NullPointerException" could be thrown; "bitmap" is nullable here.(µ—Î¹8ÛÕ³Í­/
+`
+java:S2259æ"BA "NullPointerException" could be thrown; "data" is nullable here.(‚”8ÜÕ³Í­/

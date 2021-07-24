@@ -4,10 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     tools:context=".Activities.ProfileActivity">
 
     <androidx.appcompat.widget.Toolbar
-        android:id="@+id/toolbarofviewprofile"
+        android:id="@+id/toolbarofupdateprofile"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="@color/whatsAppColor"
@@ -61,17 +62,18 @@
 
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/viewuserimage"
+        android:id="@+id/getnewuserimage"
         android:layout_width="130dp"
         android:layout_height="130dp"
         android:layout_centerHorizontal="true"
         app:layout_constraintHorizontal_bias=".5"
         app:layout_constraintVertical_bias=".2"
         app:cardCornerRadius="130dp"
+        android:backgroundTint="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/toolbarofviewprofile">
+        app:layout_constraintTop_toBottomOf="@+id/toolbarofupdateprofile">
 
         <ImageView
             android:layout_width="match_parent"
@@ -89,16 +91,16 @@
         android:layout_height="50dp"
         android:layout_centerInParent="true"
         android:src="@drawable/ic_person"
-        app:layout_constraintBottom_toBottomOf="@+id/viewusername"
+        app:layout_constraintBottom_toBottomOf="@+id/getnewusername"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintVertical_bias=".5"
         app:layout_constraintHorizontal_bias=".15"
-        app:layout_constraintTop_toTopOf="@+id/viewusername"
+        app:layout_constraintTop_toTopOf="@+id/getnewusername"
         app:tint="#716e6e" />
 
     <EditText
-        android:id="@+id/viewusername"
+        android:id="@+id/getnewusername"
         android:layout_width="0dp"
         android:layout_height="50dp"
         android:layout_centerInParent="true"
@@ -106,6 +108,7 @@
         android:clickable="false"
         android:enabled="false"
         android:hint="Your Name Here"
+        android:backgroundTint="@color/grey"
         android:inputType="textCapWords"
         android:textColor="@color/black"
         android:textColorHint="@color/grey"
@@ -114,14 +117,14 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/logoofviewprofile"
-        app:layout_constraintTop_toBottomOf="@+id/viewuserimage"
+        app:layout_constraintTop_toBottomOf="@+id/getnewuserimage"
         app:layout_constraintVertical_bias=".1" />
 
     <TextView
         android:id="@+id/movetoupdateprofile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@id/viewusername"
+        android:layout_below="@id/getnewusername"
         android:layout_centerInParent="true"
         android:paddingLeft="20dp"
         android:paddingTop="10dp"
@@ -134,6 +137,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/viewusername"/>
+        app:layout_constraintTop_toBottomOf="@+id/getnewusername"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

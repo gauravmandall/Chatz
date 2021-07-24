@@ -55,10 +55,10 @@ public class ProfileActivity extends AppCompatActivity {
         setContentView(R.layout.activity_profile);
 
         mviewuserimageinimageview=findViewById(R.id.viewuserimageinimageview);
-        mviewusername=findViewById(R.id.viewusername);
+        mviewusername=findViewById(R.id.getnewusername);
         mmovetoupdateprofile=findViewById(R.id.movetoupdateprofile);
         firebaseFirestore=FirebaseFirestore.getInstance();
-        mtoolbarofviewprofile=findViewById(R.id.toolbarofviewprofile);
+        mtoolbarofviewprofile=findViewById(R.id.toolbarofupdateprofile);
         mbackbuttonofviewprofile=findViewById(R.id.backbuttonofviewprofile);
         firebaseDatabase=FirebaseDatabase.getInstance();
         firebaseAuth=FirebaseAuth.getInstance();
