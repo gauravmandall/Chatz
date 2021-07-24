@@ -48,7 +48,7 @@ public class OtpAuthenticationActivity extends AppCompatActivity {
         mchangenumber.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(OtpAuthenticationActivity.this, MainActivity.class);
+                Intent intent = new Intent(OtpAuthenticationActivity.this, PhoneNumberActivity.class);
 
                 startActivity(intent);
             }

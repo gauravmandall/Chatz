@@ -56,6 +56,8 @@
         android:gravity="center"
         android:hint="Enter Your Name Here"
         android:inputType="textCapWords"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
         android:maxLength="26"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

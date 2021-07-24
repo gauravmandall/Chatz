@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Chatz">
+        <activity android:name=".Activities.ProfileActivity"></activity>
         <activity android:name=".Activities.SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,9 +21,7 @@
         <activity android:name=".Activities.OtpAuthenticationActivity" />
         <activity android:name=".Activities.SetupProfileActivity" />
         <activity android:name=".Activities.DashboardActivity" />
-
-
-        <activity android:name=".MainActivity"/>    // This Activity is no Longer needed
+        <activity android:name=".MainActivity" />
 
         <meta-data
             android:name="preloaded_fonts"
