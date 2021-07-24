@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368598923494",
+    "project_id": "gaurav-chatz",
+    "storage_bucket": "gaurav-chatz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368598923494:android:465140e589adfba9066327",
+        "android_client_info": {
+          "package_name": "com.gaurav.chatz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368598923494-k2b3rfodpg60ma7bmeq03hvojka3cs32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwnVfCUQm1MKXM01_CQzCUBwhWuDPZSgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368598923494-k2b3rfodpg60ma7bmeq03hvojka3cs32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
