@@ -9,3 +9,25 @@ Dapp/src/main/java/com/gaurav/chatz/Activities/DashboardActivity.java,e\5\e516b
 Lapp/src/main/java/com/gaurav/chatz/Activities/OtpAuthenticationActivity.java,4\9\499d31413f5db3a02ebdcdf6edd736905b37cead
 q
 Aapp/src/main/java/com/gaurav/chatz/Adapters/FragmentsAdapter.java,9\5\95036419d890109d997677a5a78d5be637b4b7a7
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+o
+?app/src/main/java/com/gaurav/chatz/Fragments/CallsFragment.java,0\d\0df8a06d7eb10b09cd162e93ccfceb238ef5c07c
+o
+?app/src/main/java/com/gaurav/chatz/Fragments/ChatsFragment.java,8\e\8e079ddcaa2af3c6374d9a382409e32a3bf1eb74
+l
+<app/src/main/java/com/gaurav/chatz/Models/FirebaseModel.java,6\c\6c07eb654098769530dc2214c94bdf1e6de5b5b2
+g
+7app/src/main/java/com/gaurav/chatz/Models/Messages.java,3\c\3c11e0db4eb4791b490789408c3ef82d23d56895
+p
+@app/src/main/java/com/gaurav/chatz/Adapters/MessagesAdapter.java,8\f\8f0bb2b2a1dc021f73bbb9a2dda2bb5bdba42f03
+r
+Bapp/src/main/java/com/gaurav/chatz/Activities/ProfileActivity.java,0\9\09753bb129f8887e429642c98839730e6a9ba1c6
+o
+?app/src/main/java/com/gaurav/chatz/Activities/SpecificChat.java,9\e\9e2b53111d16dbf86cf264ef284be1ccae536d79
+p
+@app/src/main/java/com/gaurav/chatz/Fragments/StatusFragment.java,f\b\fbf6097ce04dc0272bd80985f5889e70e7cf74d6
+x
+Happ/src/main/java/com/gaurav/chatz/Activities/UpdateProfileActivity.java,e\d\ed517eabbb7226adfed29b902a5d0fd64699be93

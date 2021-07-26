@@ -1,0 +1,15 @@
+
+~	java:S116,"]Rename this field "ImageURIacessToken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕ ‡şÿÿÿÿ8©—Ğ­/
+X
+java:S1068,"6Remove this unused "ImageURIacessToken" private field.(õÕ ‡şÿÿÿÿ8È—Ğ­/
+J
+java:S1604F"(Make this anonymous inner class a lambda(¡÷ı÷úÿÿÿÿ8üÒ˜Ğ­/
+E
+java:S1604O"(Make this anonymous inner class a lambda(®ô®à8şÒ˜Ğ­/
+J
+java:S1604h"(Make this anonymous inner class a lambda(èŒ µÿÿÿÿÿ8Ó˜Ğ­/
+E
+java:S1604{"(Make this anonymous inner class a lambda(ƒéöš8Ó˜Ğ­/
+K
+java:S1604Š"(Make this anonymous inner class a lambda(ì¾şÿÿÿÿ8‚Ó˜Ğ­/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ™

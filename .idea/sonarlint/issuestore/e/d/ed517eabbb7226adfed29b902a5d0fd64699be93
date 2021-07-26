@@ -1,0 +1,45 @@
+
+~	java:S1163"]Rename this field "ImageURIacessToken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕ ‡şÿÿÿÿ8Ì˜´Ò­/
+w
+java:S3008B"URename this field "PICK_IMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÍå÷üÿÿÿÿ8Í˜´Ò­/
+|
+java:S1450*"_Remove the "firebaseDatabase" field and declare it as a local variable in the relevant methods.(­Õğ»8•ÉµÒ­/
+{
+java:S14509"^Remove the "firebaseStorage" field and declare it as a local variable in the relevant methods.(Â‹Ğí8–ÉµÒ­/
+†
+java:S14506"iRemove the "mbackbuttonofupdateprofile" field and declare it as a local variable in the relevant methods.(µ¸ 8–ÉµÒ­/
+ˆ
+java:S14505"fRemove the "mtoolbarofupdateprofile" field and declare it as a local variable in the relevant methods.(¡¶‹¶ÿÿÿÿÿ8—ÉµÒ­/
+\
+java:S1117~":Rename "intent" which hides the field declared at line 64.(—î¡‘şÿÿÿÿ8ÃÉµÒ­/
+]
+java:S1117Œ":Rename "intent" which hides the field declared at line 64.(—î¡‘şÿÿÿÿ8ÏÉµÒ­/
+X
+java:S1117 ":Rename "intent" which hides the field declared at line 64.(í’ ï8ÔÉµÒ­/
+J
+java:S1604["(Make this anonymous inner class a lambda(ô‹×”øÿÿÿÿ8üÉµÒ­/
+J
+java:S1604k"(Make this anonymous inner class a lambda(ë¯šßşÿÿÿÿ8şÉµÒ­/
+F
+java:S1604"(Make this anonymous inner class a lambda(£’Ç£8ÿÉµÒ­/
+F
+java:S1604¦"(Make this anonymous inner class a lambda(®ô®à8ÿÉµÒ­/
+K
+java:S1604Â"(Make this anonymous inner class a lambda(Ğ‡İ´ÿÿÿÿÿ8ÿÉµÒ­/
+F
+java:S1604è"(Make this anonymous inner class a lambda(µ°„¢8€ÊµÒ­/
+K
+java:S1604ï"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ8€ÊµÒ­/
+K
+java:S1604ä"(Make this anonymous inner class a lambda(‹äĞçıÿÿÿÿ8€ÊµÒ­/
+K
+java:S1604ú"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ8€ÊµÒ­/
+F
+java:S1604›"(Make this anonymous inner class a lambda(ƒéöš8ÊµÒ­/
+K
+java:S1604ª"(Make this anonymous inner class a lambda(ì¾şÿÿÿÿ8‚ÊµÒ­/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ™
+b
+java:S2259İ"DA "NullPointerException" could be thrown; "bitmap" is nullable here.(µ—Î¹8¶ÊµÒ­/
+`
+java:S2259Œ"BA "NullPointerException" could be thrown; "data" is nullable here.(‚”8´ÊµÒ­/

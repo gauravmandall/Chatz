@@ -1,0 +1,24 @@
+
+J
+java:S16592"(Declare "sendername" on a separate line.(èİÿÿÿÿÿ8ÒÄ©Ó­/
+L
+java:S16592"*Declare "mrecieveruid" on a separate line.(èİÿÿÿÿÿ8ÒÄ©Ó­/
+J
+java:S16592"(Declare "msenderuid" on a separate line.(èİÿÿÿÿÿ8ÒÄ©Ó­/
+L
+java:S16595"*Declare "recieverroom" on a separate line.(Œšâôûÿÿÿÿ8ÒÄ©Ó­/
+Ÿ
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦8…“«Ó­/
+¤
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²óÀÚÿÿÿÿÿ8™“«Ó­/
+J
+java:S1604`"(Make this anonymous inner class a lambda(Ÿ­µŒıÿÿÿÿ8¡“«Ó­/
+F
+java:S1604‘"(Make this anonymous inner class a lambda(“ã™8¡“«Ó­/
+K
+java:S1604Á"(Make this anonymous inner class a lambda(ĞÜÿûÿÿÿÿ8¢“«Ó­/
+D
+java:S1604¹"(Make this anonymous inner class a lambda(µîG8¢“«Ó­/
+K
+java:S1604¥"(Make this anonymous inner class a lambda( ÍÚÃüÿÿÿÿ8¢“«Ó­/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ™

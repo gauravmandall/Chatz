@@ -1,0 +1,10 @@
+
+q
+java:S1450 "[Remove the "firebaseAuth" field and declare it as a local variable in the relevant methods.(“ψ
+v
+java:S1450"`Remove the "firebaseFirestore" field and declare it as a local variable in the relevant methods.(Γ›υ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(κΆ΅Ω
+V	java:S1254"<This block of commented-out lines of code should be removed.(υσ‹ψÿÿÿÿ
+C
+java:S1604J"(Make this anonymous inner class a lambda(—¤§ϊϊÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(αϊ”‘ώÿÿÿÿ

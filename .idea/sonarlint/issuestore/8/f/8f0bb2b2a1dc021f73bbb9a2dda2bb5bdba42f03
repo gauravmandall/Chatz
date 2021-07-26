@@ -1,0 +1,8 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ìƒ„äùÿÿÿÿ
+i	java:S116"TRename this field "ITEM_SEND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ·º€
+l	java:S116"WRename this field "ITEM_RECIEVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¥ø‡
+—
+java:S1319"|The type of the "messagesArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(¢…Óåûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èû¿œùÿÿÿÿ
