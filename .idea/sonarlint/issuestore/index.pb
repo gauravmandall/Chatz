@@ -3,16 +3,8 @@ w
 Gapp/src/main/java/com/gaurav/chatz/Activities/SetupProfileActivity.java,d\b\db187a11ee2572ef5d8611889aa45fec50bd63b7
 j
 :app/src/main/java/com/gaurav/chatz/Models/UserProfile.java,7\e\7e8f8ac8ace37447908bfde4a91c1e257a869a4e
-t
-Dapp/src/main/java/com/gaurav/chatz/Activities/DashboardActivity.java,e\5\e516b009b067ba884a1e0fbaa21efc519fda28d2
-|
-Lapp/src/main/java/com/gaurav/chatz/Activities/OtpAuthenticationActivity.java,4\9\499d31413f5db3a02ebdcdf6edd736905b37cead
 q
 Aapp/src/main/java/com/gaurav/chatz/Adapters/FragmentsAdapter.java,9\5\95036419d890109d997677a5a78d5be637b4b7a7
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
-@
-app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 o
 ?app/src/main/java/com/gaurav/chatz/Fragments/CallsFragment.java,0\d\0df8a06d7eb10b09cd162e93ccfceb238ef5c07c
 o

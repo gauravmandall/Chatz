@@ -15,7 +15,6 @@ import androidx.fragment.app.FragmentManager;
 import androidx.viewpager2.widget.ViewPager2;
 
 import com.gaurav.chatz.Adapters.FragmentsAdapter;
-import com.gaurav.chatz.MainActivity;
 import com.gaurav.chatz.R;
 import com.gaurav.chatz.databinding.ActivityDashboardBinding;
 import com.google.android.material.tabs.TabLayout;

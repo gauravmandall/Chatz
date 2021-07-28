@@ -7,7 +7,6 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.WindowManager;
 
-import com.gaurav.chatz.MainActivity;
 import com.gaurav.chatz.R;
 
 public class SplashScreenActivity extends AppCompatActivity {

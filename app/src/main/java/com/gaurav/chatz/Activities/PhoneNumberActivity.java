@@ -10,7 +10,6 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.gaurav.chatz.MainActivity;
 import com.gaurav.chatz.R;
 import com.google.firebase.FirebaseException;
 import com.google.firebase.auth.FirebaseAuth;
